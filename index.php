@@ -1,1 +1,3 @@
-<php_uname
+<?php
+  echo "Hello World!!"
+ ?> 
