@@ -1,3 +1,3 @@
-<?php # Это файл PHP
+<?php // Это файл PHP
 echo "Hello, World!!!"
 ?>
